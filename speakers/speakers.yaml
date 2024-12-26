@@ -9,3 +9,8 @@ geek:
 shaul:
   text-prompt: "ובשביל להבין למה מחיר הדלק כל כך עלה, צריך לחזור שנתיים אחורנית."
   audio-prompt: "shaul.wav"
+
+Kinneret:
+  text-prompt: "אנחנו רוצים לאחל לכולכם חג חנוכה שמח."
+  audio-prompt: "kinneret.wav"
+  
